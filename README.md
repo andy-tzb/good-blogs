@@ -1,6 +1,7 @@
 # good-blogs
 记录一些极好的技术分析文章 收录原则：通俗易懂<br>
 ## Java<br>
+* [老大说：谁要再用double定义商品金额，就自己收拾东西走](https://blog.csdn.net/wangshuaiwsws95/article/details/105427315?depth_1-utm_source=distribute.pc_feed.none-task-blog-alirecmd-2&request_id=&utm_source=distribute.pc_feed.none-task-blog-alirecmd-2)<br>
 ### 并发<br>
 * [AQS源码解析系列文章](https://segmentfault.com/a/1190000016058789)<br>
 ### HashMap & ConcurrentHashMap<br>
