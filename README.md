@@ -12,4 +12,7 @@
 [面试 HTTP ，99% 的面试官都爱问这些问题](https://juejin.im/post/5e9cda81e51d4547092219fa)<br>
 
 ## Kafka<br>
-[为什么每一个爬虫工程师都应该学习 Kafka](https://juejin.im/post/5df430d8f265da33eb6beabb)
+[为什么每一个爬虫工程师都应该学习 Kafka](https://juejin.im/post/5df430d8f265da33eb6beabb)<br>
+
+## 算法<br>
+[【漫画+图解】面试官让我用 2GB 内存给 20亿个整数（需要8GB内存）排序，我该咋整？？](https://blog.csdn.net/m0_37907797/article/details/104769603)<br>
