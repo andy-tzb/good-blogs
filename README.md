@@ -19,3 +19,6 @@
 
 ## 算法<br>
 [【漫画+图解】面试官让我用 2GB 内存给 20亿个整数（需要8GB内存）排序，我该咋整？？](https://blog.csdn.net/m0_37907797/article/details/104769603)<br>
+
+## 网络<br>
+[tcp建立连接为什么需要三次握手](https://www.jianshu.com/p/e7f45779008a)
