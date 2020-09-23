@@ -19,7 +19,11 @@
 
 ## 算法<br>
 [【漫画+图解】面试官让我用 2GB 内存给 20亿个整数（需要8GB内存）排序，我该咋整？？](https://blog.csdn.net/m0_37907797/article/details/104769603)<br>
+[一致性哈希算法的理解与实践](https://yikun.github.io/2016/06/09/%E4%B8%80%E8%87%B4%E6%80%A7%E5%93%88%E5%B8%8C%E7%AE%97%E6%B3%95%E7%9A%84%E7%90%86%E8%A7%A3%E4%B8%8E%E5%AE%9E%E8%B7%B5/)<br>
 
 ## 网络<br>
 [tcp建立连接为什么需要三次握手](https://www.jianshu.com/p/e7f45779008a)
 [面试 HTTP ，99% 的面试官都爱问这些问题](https://juejin.im/post/5e9cda81e51d4547092219fa)<br>
+
+## Linux<br>
+[AWK 简明教程](https://coolshell.cn/articles/9070.html)<br>
